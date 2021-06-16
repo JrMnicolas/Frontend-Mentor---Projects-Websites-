@@ -19,5 +19,5 @@ Link to my live site URL:
 
 ### Author
 Frontend Mentor - [@JrMnicolas](https://www.frontendmentor.io/profile/JrMnicolas)  
-LinkedIn - [Junior Nicolas Mbuyi](https://www.linkedin.com/in/junior-nicolas-mbuyi-49159a1b1/)  [adjustable](http://google.com "Giiidd"){:target="_blank"}
+LinkedIn - [Junior Nicolas Mbuyi](https://www.linkedin.com/in/junior-nicolas-mbuyi-49159a1b1/  target="blank")  
 
